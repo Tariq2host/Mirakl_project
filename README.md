@@ -14,7 +14,7 @@ Touts mes élèments de réponse sont détaillés dans les quatres notebooks:
 
 # Méthodologie et synthèse de travail
 
-Le schéma ci-dessous présente une synthèse des résultats obtenus. Nous avons réussi à entraîner un modèle de classification avec une précision (accuracy) de 43 % et un F1-score de 37 %, ce qui représente des valeurs faibles, mais qui peuvent être améliorées en entraînant le meme modèle avec les meme paramètres sur 50 époques, par exemple. Ma contrainte était les ressources de calcul pour l'entraîner sur 50 époques, ce qui est chronophage avec mon CPU.
+Le schéma ci-dessous présente une synthèse des résultats obtenus. Nous avons réussi à entraîner un modèle de classification avec une accuracy de 43 % et un F1-score de 37 %, ce qui représente des valeurs faibles, mais qui peuvent être améliorées en entraînant le meme modèle avec les meme paramètres sur 50 époques, par exemple. Ma contrainte était les ressources de calcul pour l'entraîner sur 50 époques, ce qui est chronophage avec mon CPU.
 <img src="img\Synthèse.png" />
 
 # Activer l'environnement
