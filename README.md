@@ -38,8 +38,8 @@ pip install -r requirements.txt
 
 ## Détails des dossiers et fichiers
 
-- `all_images/` : Dossier contenant toutes les images utilisées ou générées par le projet.
-- `data/` : Dossier où les jeux de données bruts ou transformés sont stockés.
+- `all_images/` : Dossier contenant toutes les images utilisées pour le projet.
+- `data/` : Dossier où les jeux de données bruts et transformés sont stockés.
 - `models/` : Dossier pour enregistrer les modèles entraînés.
 - `eda.ipynb` : Notebook pour l'analyse exploratoire des données (Exploratory Data Analysis - EDA).
 - `pre-processing.ipynb` : Notebook pour les étapes de prétraitement des données.
